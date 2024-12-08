@@ -3,6 +3,7 @@
 
 
 ### **Question 1**
+<img width="1470" alt="Screenshot 2024-12-08 at 10 15 39 PM" src="https://github.com/user-attachments/assets/a4e9152b-247f-4944-bec5-ad17c3cabb6c">
 
 #### Q1(a)
 “ Local councils in Ireland want to understand water usage patterns and
@@ -87,16 +88,8 @@ Rules:
 ---
 
 ### **Question 2**
-“ Local councils in Ireland want to understand water usage patterns and
-customer sentiment in response to proposed water charges. They have
-historical records of water usage (Litres per day per household), data
-from water processing plants (e.g., volume processed per day, record of
-faults, duration of outages, cost per litre processed), maps of the existing
-water pipelines (location, capacity), access to Central Statistics Office
-data with population information (e.g., density, age, rate of change) and
-have commissioned a survey of Irish adults (e.g., opinion on water
-charges, how they use water). They want to identify where future
-investment in infrastructure should occur. ”
+
+<img width="1470" alt="Screenshot 2024-12-08 at 10 16 11 PM" src="https://github.com/user-attachments/assets/04db228c-3738-4368-b97e-916b5e9d5b8a">
 
 #### Q2(a)
 **Using the UK Data Archive Data Management Lifecycle (1. Creating Data; 2. Processing Data; 3. Analysing Data; 4. Preserving Data; 5. Giving Access to Data; 6. Re-Using Data), explain how you could go about this task and give examples of data analytics tasks, methods, and tools that could be used at each stage where relevant.**
@@ -146,6 +139,7 @@ Below are the answers to the additional sections of the **CA682 - Data Managemen
 ---
 
 ### **Question 3**
+<img width="1470" alt="Screenshot 2024-12-08 at 10 16 30 PM" src="https://github.com/user-attachments/assets/9ed9a366-d3e1-48bc-80be-53bfceec2329">
 
 #### Q3(a)
 **(i) Give simple example metadata (3-4 attributes) describing your pen (i.e., what you are using to write this exam paper).**  
@@ -219,6 +213,7 @@ Actions to take:
 ---
 
 ### **Question 4**
+<img width="1470" alt="Screenshot 2024-12-08 at 10 17 04 PM" src="https://github.com/user-attachments/assets/6c1b1425-5903-4ae7-a861-207ce702b487">
 
 #### Q4(a)
 **(i) What visual communication goals are evident? [2 marks]**  
@@ -269,6 +264,7 @@ Luminance is more important because it affects readability and contrast, which a
 ---
 
 ### **Question 5**
+<img width="1470" alt="Screenshot 2024-12-08 at 10 17 52 PM" src="https://github.com/user-attachments/assets/379bb154-9408-4ab2-b32f-bad34f222117">
 
 #### Q5(b)
 **Given the following visualization tasks, suggest an appropriate graph type for each and give a brief justification:**
