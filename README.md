@@ -301,7 +301,8 @@ Four stages:
 
 ![image](https://github.com/user-attachments/assets/6c61267f-193f-45d3-a68f-7aff535cd856)
 
-![image](https://github.com/user-attachments/assets/3be6146e-8bff-4350-9220-7be8581c862e)
+![image](https://github.com/user-attachments/assets/026b7712-4a5e-4852-a2dd-23464f21bfc6)
+
 
 
 
